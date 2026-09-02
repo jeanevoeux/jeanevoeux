@@ -12,7 +12,7 @@ class SobreMim extends Desenvolvedor {
 class Skills extends Desenvolvedor {
   linguagens = ['sql'];
   aprendendo = ['python', 'desenvolvimentoweb'];
-  ferramentas = ['git', 'github', 'vscode'];
+  ferramentas = ['git', 'github', 'vscode', 'mariadb'];
 }
 
 class Contato extends Desenvolvedor {
